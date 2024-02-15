@@ -1,2 +1,2 @@
-# SpringCloud_Learn
-学习SpringCLoud的私人库
+# springcloud-config
+学习SpringCLoud的Config的私人库
